@@ -20311,6 +20311,13 @@
         "email": "privacy@system76.com",
         "domains": ["system76.com"]
     },
+     {
+        "name": "TuneIn",
+        "url": "https://privacy.tunein.com",
+        "difficulty": "medium",
+        "notes": "You have to create a request in their support portal, and wait for deletion",
+        "domains": ["tunein.com"]
+    },
     {
         "name": "T-Mobile",
         "url": "https://privacyportal-t-mobile.my.onetrust.com/webform/d4a925f0-4ebf-40ba-817b-bccc309e602f/7831d667-1ebc-4b1e-a941-e545cb0d0523",
